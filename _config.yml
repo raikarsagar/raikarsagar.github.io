@@ -1,16 +1,16 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Sagar raikar
+title: Sagar Raikar | Software Engineer
+description: Software engineer focused on building beautiful interfaces and experiences
+url: https://raikarsagar.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: raikarsagar007@gmail.com
+cover: https://raikarsagar.github.io/img/og.png
+logo: https://raikarsagar.github.io/img/emojis/technologist.png
+resume: https://raikarsagar.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:https://raikarsagar.github.io/
   - title: twitter
     url: https://twitter.com/bchiang7
   - title: instagram
