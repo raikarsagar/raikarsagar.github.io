@@ -1,26 +1,22 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
+  - item: JavaScript
   - item: HTML
   - item: CSS/Sass
   - item: Python
   - item: SQL
-  - item: R
+  - item: C/C++
 
 frameworks:
-  - item: Ember & Glimmer
+  - item: PyTorch
   - item: React
-  - item: Jekyll
+  - item: Tensorflow
   - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Flask/FastAPI
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
+  - item: MATLAB
   - item: Postman
   - item: MongoDB
 
